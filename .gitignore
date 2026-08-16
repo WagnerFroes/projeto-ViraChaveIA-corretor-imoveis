@@ -5,3 +5,11 @@ Thumbs.db
 # Editores
 .vscode/
 .idea/
+
+# Dependências, cache local e relatórios de validação
+node_modules/
+tmp/
+.vercel/
+
+# Materiais acadêmicos locais (não devem ficar públicos no deploy da Landing Page)
+entregas/
