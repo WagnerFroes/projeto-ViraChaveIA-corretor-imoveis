@@ -13,3 +13,6 @@ tmp/
 
 # Materiais acadêmicos locais (não devem ficar públicos no deploy da Landing Page)
 entregas/
+
+.vercel
+.env*
